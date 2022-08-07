@@ -1,1 +1,1 @@
-alert('hi');
+document.write('hi from github');
